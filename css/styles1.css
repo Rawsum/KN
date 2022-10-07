@@ -1,11 +1,10 @@
-  body {
-    background-color: #F8EDE3;
-    font-family: cursive;
-    text-align: center;
-    align-items: center;
-    align-content: center;
 
-  }
+div{
+  color: #628E90;
+  font-family: fantasy;
+  text-align: center;
+  font-size: 40px;
+}
   hr {
     border-color: grey;
     border-width: 5px;
@@ -28,11 +27,12 @@ h3{
 p{
   color: #628E90;
   font-family: fantasy;
-}
-div{
-  color: #628E90;
-  font-family: fantasy;
-  text-align: center;
-  font-size: 40px;
 
-}
+  body {
+    background-color: #F8EDE3;
+    font-family: cursive;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+
+  }
