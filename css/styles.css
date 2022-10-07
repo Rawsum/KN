@@ -1,5 +1,10 @@
   body {
     background-color: #F8EDE3;
+    font-family: cursive;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+
   }
   hr {
     border-color: grey;
@@ -7,14 +12,22 @@
     border-style: dotted hidden hidden;
     height: 0;
     width: 5%;
-    align: "center";
   }
 h1{
+  background-color: #D8D9CF;
   font-weight: bold;
   color: #7D6E83;
 }
 h3{
   font-weight: bold;
   color: grey;
+  background-color: #D8D9CF;
 
+}
+p{
+  color: #628E90;
+  font-family: fantasy;
+}
+div{
+  align-self: center;
 }
