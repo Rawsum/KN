@@ -29,6 +29,7 @@ p{
   font-family: fantasy;
 }
 div{
+  text-align: center;
   font-size: 200%;
-  align-self: center;
+  font-family: cursive;
 }
