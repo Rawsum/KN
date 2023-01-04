@@ -68,3 +68,6 @@ a:hover {
 a :active{
   color: #420042;
 }
+table{
+  margin: auto;
+}
