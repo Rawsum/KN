@@ -1,0 +1,39 @@
+ hr {
+      border-color: grey;
+      border-width: 5px;
+      border-style: dotted hidden hidden;
+      height: 0;
+      width: 5%;
+    }
+  h1{
+    background-color: #D8D9CF;
+    font-weight: bold;
+    color: #7D6E83;
+    font-size: 40px;
+  }
+  h3{
+    font-weight: bold;
+    color: #EE6983;
+    background-color: #D8D9CF;
+    font-size: 40px;
+    text-align: center;
+    font-family: fantasy;
+  }
+    body 
+      {
+      background-color: hsl(29, 60%, 93%);
+      text-align: center;
+      align-items: center;
+      align-content: center;
+      font-size: 40px;
+      font-family: fantasy;
+      
+  }
+  a :hover
+  {
+      color: crimson;
+   }
+    text :hover
+   {
+      color: crimson;
+    }
